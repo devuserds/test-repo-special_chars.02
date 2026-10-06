@@ -1,0 +1,8 @@
+Bulk test fixture
+Repo index: 2
+Branch index: 2
+File slot: 1
+Special character: '&' (label: amp)
+Repo: test_repo_002
+Branch: branch-002-02-percent-%-x
+Path: special-chars/file-002-02-1-amp-&-x.txt
