@@ -1,0 +1,8 @@
+Bulk test fixture
+Repo index: 2
+Branch index: 5
+File slot: 1
+Special character: '-' (label: hyphen)
+Repo: test_repo_002
+Branch: branch-002-05-comma-,-x
+Path: special-chars/file-002-05-1-hyphen---x.txt
