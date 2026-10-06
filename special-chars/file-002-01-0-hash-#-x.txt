@@ -1,0 +1,8 @@
+Bulk test fixture
+Repo index: 2
+Branch index: 1
+File slot: 0
+Special character: '#' (label: hash)
+Repo: test_repo_002
+Branch: branch-002-01-hash-#-x
+Path: special-chars/file-002-01-0-hash-#-x.txt
