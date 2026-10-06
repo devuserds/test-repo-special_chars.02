@@ -1,0 +1,8 @@
+Bulk test fixture
+Repo index: 2
+Branch index: 1
+File slot: 1
+Special character: '$' (label: dollar)
+Repo: test_repo_002
+Branch: branch-002-01-hash-#-x
+Path: special-chars/file-002-01-1-dollar-$-x.txt
