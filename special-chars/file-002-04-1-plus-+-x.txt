@@ -1,0 +1,8 @@
+Bulk test fixture
+Repo index: 2
+Branch index: 4
+File slot: 1
+Special character: '+' (label: plus)
+Repo: test_repo_002
+Branch: branch-002-04-rparen-)-x
+Path: special-chars/file-002-04-1-plus-+-x.txt
