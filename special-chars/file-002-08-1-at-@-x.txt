@@ -1,0 +1,8 @@
+Bulk test fixture
+Repo index: 2
+Branch index: 8
+File slot: 1
+Special character: '@' (label: at)
+Repo: test_repo_002
+Branch: branch-002-08-gt->-x
+Path: special-chars/file-002-08-1-at-@-x.txt
